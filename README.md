@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿# 🎓 Smart Study Planner
 
 An intelligent AI-powered study planner that helps students organize their study schedule, manage subjects, and get AI-powered explanations using RAG (Retrieval-Augmented Generation).
@@ -93,3 +94,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Built with [Streamlit](https://streamlit.io/)
 - AI powered by [Google Gemini](https://deepmind.google/technologies/gemini/)
 - RAG implementation using [LangChain](https://www.langchain.com/)
+=======
+# smart-study-planner
+An AI-powered study planner with RAG and recommendation system
+>>>>>>> e9a7a7cae3f6719ce474a443c6bdc8ae227f3aec
